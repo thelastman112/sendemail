@@ -6,6 +6,12 @@ edit the file in nodemailer.js:
 
 put the email and password in auth also put your email and the reciever email in mailOptions
 
+after that, install the next.js:
+
+```bash
+npm install
+```
+
 run the development server:
 
 ```bash
