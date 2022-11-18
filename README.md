@@ -2,7 +2,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+edit the file in nodemailer.js:
+
+put the email and password in auth also put your email and the reciever email in mailOptions
+
+run the development server:
 
 ```bash
 npm run dev
